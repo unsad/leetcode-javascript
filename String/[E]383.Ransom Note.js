@@ -12,4 +12,4 @@ var canConstruct = function(ransomNote, magazine) {
   return true;
 };
 
-/**简单题，用map做映射记录，用set记录已映射到的值，按题意转化为代码即可 */
+/**简单题，用map做映射记录，按题意转化为代码即可 */

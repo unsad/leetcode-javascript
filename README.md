@@ -1,5 +1,11 @@
 # Leetcode solutions written in Javascript
 
+## 分类标准
+
+* 重点：必须掌握的题型。每一题都是频繁面试点，或者有着代表解法，或者可以举一反三。
+* 提高：难度比较高的题，但常规面试一般不会出现，提升自我的目的可以练习
+* 了解：面试基本不会出现，一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复
+
 ## String 
 
 ### 重点
@@ -21,6 +27,12 @@
 | 241    | [Different Ways to Add Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D241.Different%20Ways%20to%20Add%20Parentheses.js) | Medium     |
 | 392    | [Is Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D392.Is%20Subsequence.js) | Medium     |
 | 395    | [Longest Substring with At Least K Repeating Character](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.js) | Medium     |
+
+
+### 提高
+
+| Number | Title | Difficulty |
+| ------ | ----- | ---------- |
 | 30     | [Substring with Concatenation of All Words](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D30.Substring%20with%20Concatenation%20of%20All%20Words.js) | Hard       |
 | 32     | [Longest Valid Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D32.Longest%20Valid%20Parentheses.js) | Hard       |
 | 76     | [Minimum Window Substring](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D76.Minimum%20Window%20Substring.js) | Hard       |
@@ -30,7 +42,9 @@
 | 316    | [Remove Duplicate Letters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D316.Remove%20Duplicate%20Letters.js) | Hard       |
 | 336    | [Palindrome Pairs](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D336.Palindrome%20Pairs.js) | Hard       |
 
-### 普通
+
+
+### 了解
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |

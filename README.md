@@ -21,6 +21,14 @@
 | 241    | [Different Ways to Add Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D241.Different%20Ways%20to%20Add%20Parentheses.js) | Medium     |
 | 392    | [Is Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D392.Is%20Subsequence.js) | Medium     |
 | 395    | [Longest Substring with At Least K Repeating Character](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.js) | Medium     |
+| 30     | [Substring with Concatenation of All Words](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D30.Substring%20with%20Concatenation%20of%20All%20Words.js) | Hard       |
+| 32     | [Longest Valid Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D32.Longest%20Valid%20Parentheses.js) | Hard       |
+| 76     | [Minimum Window Substring](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D76.Minimum%20Window%20Substring.js) | Hard       |
+| 115    | [Distinct Subsequences](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D115.Distinct%20Subsequences.js) | Hard       |
+| 132    | [Palindrome Partitioning II](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D132.Palindrome%20Partitioning%20II.js) | Hard       |
+| 301    | [Remove Invaild Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D301.Remove%20Invaild%20Parentheses.js) | Hard       |
+| 316    | [Remove Duplicate Letters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D316.Remove%20Duplicate%20Letters.js) | Hard       |
+| 336    | [Palindrome Pairs](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D336.Palindrome%20Pairs.js) | Hard       |
 
 ### 普通
 
@@ -38,5 +46,4 @@
 | 12     | [Integer to Roman](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D12.Integer%20to%20Roman.js) | Medium     |
 | 49     | [Group Anagrams](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D49.Group%20Anagrams.js) | Medium     |
 | 151    | [Reverse Words in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D151.Reverse%20Words%20in%20a%20String.js) | Medium     |
-|        |                                                              |            |
 

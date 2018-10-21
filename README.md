@@ -14,7 +14,13 @@
 | 205    | [Isomorphic Strings](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D205.Isomorphic%20Strings.js) | Easy       |
 | 344    | [Reverse String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D344.Reverse%20String.js) | Easy       |
 | 345    | [Reverse Vowels of a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D345.Reverse%20Vowels%20of%20a%20String.js) | Easy       |
-|        |                                                              |            |
+| 3      | [Longest Substring Without Repeating Characters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D3.Longest%20Substring%20Without%20Repeating%20Characters.js) | Medium     |
+| 5      | [Longest Palindromic Substring](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D5.Longest%20Palindromic%20Substring.js) | Medium     |
+| 22     | [Generate parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D22.Generate%20parentheses.js) | Medium     |
+| 131    | [Palindrome Partitioning](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D131.Palindrome%20Partitioning.js) | Medium     |
+| 241    | [Different Ways to Add Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D241.Different%20Ways%20to%20Add%20Parentheses.js) | Medium     |
+| 392    | [Is Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D392.Is%20Subsequence.js) | Medium     |
+| 395    | [Longest Substring with At Least K Repeating Character](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.js) | Medium     |
 
 ### 普通
 
@@ -29,4 +35,8 @@
 | 290    | [Word Pattern](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D290.Word%20Pattern.js) | Easy       |
 | 383    | [Ransom Note](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D383.Ransom%20Note.js) | Easy       |
 | 387    | [First Unique Character in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D387.First%20Unique%20Character%20in%20a%20String.js) | Easy       |
+| 12     | [Integer to Roman](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D12.Integer%20to%20Roman.js) | Medium     |
+| 49     | [Group Anagrams](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D49.Group%20Anagrams.js) | Medium     |
+| 151    | [Reverse Words in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D151.Reverse%20Words%20in%20a%20String.js) | Medium     |
+|        |                                                              |            |
 

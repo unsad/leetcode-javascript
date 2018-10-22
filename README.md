@@ -3,7 +3,7 @@
 ## 分类标准
 
 * 重点：必须掌握的题型。每一题都是频繁面试点，或者有着代表解法，或者可以举一反三。
-* 提高：难度比较高的题，但常规面试一般不会出现，提升自我的目的可以练习
+* 提高：难度比较高的题，或者思路巧妙的题，常规面试一般不会出现，提升自我的目的可以练习
 * 了解：面试基本不会出现，一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复
 
 ## String 
@@ -76,4 +76,34 @@
 | 189    | [Rotate Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D189.Rotate%20Array.js) | Easy       |
 | 217    | [Contains Duplicate](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D217.Contains%20Duplicate.js) | Easy       |
 | 283    | [Move Zeroes](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D283.Move%20Zeroes.js) | Easy       |
+| 55     | [Jump Game](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D55.Jump%20Game.js) | Medium     |
+| 56     | [Merge Intervals](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D56.Merge%20Intervals.js) | Medium     |
+| 75     | [Sort Colors](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D75.Sort%20Colors.js) | Medium     |
+| 134    | [Gas Station](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D134.Gas%20Station.js) | Medium     |
+| 152    | [Maximum Product Subarray](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D152.Maximum%20Product%20Subarray.js) | Medium     |
+| 209    | [Minimum Size Subarray Sum](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D209.Minimum%20Size%20Subarray%20Sum.js) | Medium     |
+| 238    | [Product of Array Except Self](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D238.Product%20of%20Array%20Except%20Self.js) | Medium     |
+| 275    | [H-Index \|\|](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D275.H-Index%20II.js) | Medium     |
+| 287    | [Find the Duplicate Number](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D287.Find%20the%20Duplicate%20Number.js) | Medium     |
+| 324    | [Wiggle Sort \|\|](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D324.Wiggle%20Sort%20II.js) | Medium     |
+| 334    | [Increasing Triplet Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D334.Increasing%20Triplet%20Subsequence.js) | Medium     |
 
+### 提高
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 11     | [Container With Most Water](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D11.Container%20With%20Most%20Water.js) | Medium     |
+| 289    | [Game of Life](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D289.Game%20of%20Life.js) | Medium     |
+| 299    | [Bulls and Cows](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D299.Bulls%20and%20Cows.js) | Medium     |
+| 309    | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.js) | Medium     |
+| 376    | [Wiggle Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D376.Wiggle%20Subsequence.js) | Medium     |
+
+### 了解
+
+| Number | Title                                                        | Diffuculty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 80     | [Remove Duplicates from Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D80.Remove%20Duplicates%20from%20Sorted%20Array%20II.js) | Medium     |
+| 228    | [Summary Ranges](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D228.Summary%20Ranges.js) | Medium     |
+| 274    | [H-Index](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D274.H-Index.js) | Medium     |
+
+ 

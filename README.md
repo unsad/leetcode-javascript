@@ -87,6 +87,11 @@
 | 287    | [Find the Duplicate Number](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D287.Find%20the%20Duplicate%20Number.js) | Medium     |
 | 324    | [Wiggle Sort \|\|](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D324.Wiggle%20Sort%20II.js) | Medium     |
 | 334    | [Increasing Triplet Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D334.Increasing%20Triplet%20Subsequence.js) | Medium     |
+| 41     | [First Missing Positive](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D41.First%20Missing%20Positive.js) | Hard       |
+| 45     | [Jump Game II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D45.Jump%20Game%20II.js) | Hard       |
+| 57     | [Insert Interval](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D57.Insert%20Interval.js) | Hard       |
+| 128    | [Longest Consecutive Sequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D128.Longest%20Consecutive%20Sequence.js) | Hard       |
+| 239    | [Sliding Window Maximum](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D239.Sliding%20Window%20Maximum.js) | Hard       |
 
 ### 提高
 
@@ -97,6 +102,10 @@
 | 299    | [Bulls and Cows](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D299.Bulls%20and%20Cows.js) | Medium     |
 | 309    | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.js) | Medium     |
 | 376    | [Wiggle Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D376.Wiggle%20Subsequence.js) | Medium     |
+| 42     | [Trapping Rain Water](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D42.Trapping%20Rain%20Water.js) | Hard       |
+| 123    | [Best Time to Buy and Sell Stock III](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D123.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js) | Hard       |
+| 164    | [Maximum Gap](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D164.Maximum%20Gap.js) | Hard       |
+| 188    | [Best Time to Buy and Sell Stock IV](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D188.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.js) | Hard       |
 
 ### 了解
 

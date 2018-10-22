@@ -61,3 +61,19 @@
 | 49     | [Group Anagrams](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D49.Group%20Anagrams.js) | Medium     |
 | 151    | [Reverse Words in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D151.Reverse%20Words%20in%20a%20String.js) | Medium     |
 
+## Array
+
+### 重点
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 26     | [Remove Duplicates from Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D26.Remove%20Duplicates%20from%20Sorted%20Array.js) | Easy       |
+| 27     | [Remove Element](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D27.Remove%20Element.js) | Easy       |
+| 53     | [Maximum Subarray](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D53.Maximum%20Subarray.js) | Easy       |
+| 88     | [Merge Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D88.Merge%20Sorted%20Array.js) | Easy       |
+| 121    | [Best Time to Buy and Sell Stock](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) | Easy       |
+| 122    | [Best Time to Buy and Sell Stock II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js) | Easy       |
+| 189    | [Rotate Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D189.Rotate%20Array.js) | Easy       |
+| 217    | [Contains Duplicate](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D217.Contains%20Duplicate.js) | Easy       |
+| 283    | [Move Zeroes](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D283.Move%20Zeroes.js) | Easy       |
+

@@ -129,6 +129,7 @@
 | 227    | [Basic Calculator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D227.Basic%20Calculator%20II.js) | Medium     |
 | 347    | [Top K Frequent Elements](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D347.Top%20K%20Frequent%20Elements.js) | Medium     |
 | 394    | [Decode String](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D394.Decode%20String.js) | Medium     |
+| 224 | [Basic Calculator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BH%5D224.Basic%20Calculator.js) | Hard |
 
 ### 提高
 
@@ -136,6 +137,7 @@
 | ------ | ------------------------------------------------------------ | ---------- |
 | 332    | [Reconstruct Ltinerary](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D332.Reconstruct%20Ltinerary.js) | Medium     |
 | 388    | [Longest Absolute File Path](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D388.Longest%20Absolute%20File%20Path.js) | Medium     |
+| 84     | [Largest Rectangle in Histogram](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BH%5D84.Largest%20Rectangle%20in%20Histogram.js) | Hard       |
 
 
 

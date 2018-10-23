@@ -2,9 +2,9 @@
 
 ## 分类标准
 
-* 重点：必须掌握的题型。每一题都是频繁面试点，或者有着代表解法，或者可以举一反三。
-* 提高：难度比较高的题，或者思路巧妙的题，常规面试一般不会出现，提升自我的目的可以练习
-* 了解：面试基本不会出现，一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复
+* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三，面试频繁出现。
+* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习，面试一般不会出现。
+* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复，面试基本不会出现。
 
 ## String 
 
@@ -123,6 +123,19 @@
 | ------ | ------------------------------------------------------------ | ---------- |
 | 225    | [Implement Stack using Queues](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D225.Implement%20Stack%20using%20Queues.js) | Easy       |
 | 232    | [Implement Queue using Stacks](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D232.Implement%20Queue%20using%20Stacks.js) | Easy       |
+| 71 | [Simplify Path](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D71.Simplify%20Path.js) |Medium|
+| 150    | [Evaluate Reverse Polish Notation](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D150.Evaluate%20Reverse%20Polish%20Notation.js) | Medium     |
+| 215    | [Kth Largest Element in an Array](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D215.Kth%20Largest%20Element%20in%20an%20Array.js) | Medium     |
+| 227    | [Basic Calculator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D227.Basic%20Calculator%20II.js) | Medium     |
+| 347    | [Top K Frequent Elements](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D347.Top%20K%20Frequent%20Elements.js) | Medium     |
+| 394    | [Decode String](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D394.Decode%20String.js) | Medium     |
+
+### 提高
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 332    | [Reconstruct Ltinerary](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D332.Reconstruct%20Ltinerary.js) | Medium     |
+| 388    | [Longest Absolute File Path](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D388.Longest%20Absolute%20File%20Path.js) | Medium     |
 
 
 
@@ -131,5 +144,6 @@
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 155    | [Min Stack](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D155.Min%20Stack.js) | Easy       |
+| 341    | [Flatten Nested list Iterator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D341.Flatten%20Nested%20list%20Iterator.js) | Medium     |
 
  

@@ -217,7 +217,7 @@
 | 112    | [Path Sum](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D112.Path%20Sum.js) | Easy       |
 | 226    | [invert Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D226.Invert%20Binart%20Tree.js) | Easy       |
 | 235    | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js) | Easy       |
-| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js[Binary Tree Paths]()) | Easy       |
+| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js) | Easy       |
 | 94     | [Binary Tree Inorder Traversal](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D94.Binary%20Tree%20Inorder%20Traversal.js) | Medium     |
 | 96     | [Unique Binary Search Trees](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D96.Unique%20Binary%20Search%20Trees.js) | Medium     |
 | 98     | [Validate Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D98.Validate%20Binary%20Search%20Tree.js) | Medium     |

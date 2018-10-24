@@ -162,6 +162,23 @@
 | 206    | [Reverse Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D206.Reverse%20Linked%20List.js) | Easy       |
 | 234    | [Palindrome Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D234.Palindrome%20Linked%20List.js) | Easy       |
 | 237    | [Delete Node in a Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D237.Delete%20Node%20in%20a%20Linked%20List.js) | Easy       |
-|        |                                                              |            |
+| 2      | [Add Two Numbers](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D2.Add%20Two%20Numbers.js) | Medium     |
+| 19     | [Remove Nth Node From End of List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D19.Remove%20Nth%20Node%20From%20End%20of%20List.js) | Medium     |
+| 24     | [Swap Nodes in Pairs](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D24.Swap%20Nodes%20in%20Pairs.js) | Medium     |
+| 61     | [Rotate List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D61.Rotate%20List.js) | Medium     |
+| 86     | [Partition List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D86.Partition%20List.js) | Medium     |
+| 142    | [Linked List Cycle II](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D142.Linked%20List%20Cycle%20II.js) | Medium     |
+| 147    | [Insertion Sort List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D147.Insertion%20Sort%20List.js) | Medium     |
+| 148    | [Sort List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D148.Sort%20List.js) | Medium     |
+| 328    | [Odd Even Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D328.Odd%20Even%20Linked%20List.js) | Medium     |
+| 23     | [Merge k Sorted List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BH%5D23.Merge%20k%20Sorted%20Lists.js) | Hard       |
 
- 
+### 了解
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 82     | [Remove Duplicates from Sorted List II](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D82.Remove%20Duplicates%20from%20Sorted%20List%20II.js) | Medium     |
+| 92     | [Reverse Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D92.Reverse%20Linked%20List%20II.js) | Medium     |
+| 143    | [Reorder List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D143.Reorder%20List.js) | Medium     |
+| 25     | [Reverse Nodes in k-Group](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BH%5D25.Reverse%20Nodes%20in%20k-Group.js) | Hard       |
+

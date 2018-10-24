@@ -148,4 +148,20 @@
 | 155    | [Min Stack](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D155.Min%20Stack.js) | Easy       |
 | 341    | [Flatten Nested list Iterator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D341.Flatten%20Nested%20list%20Iterator.js) | Medium     |
 
+## LinkedList
+
+### 重点
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 21     | [Merge Two Sorted Lists](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D21.Merge%20Two%20Sorted%20Lists.js) | Easy       |
+| 83     | [Remove Duplicates from Sorted List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D83.Remove%20Duplicates%20from%20Sorted%20List.js) | Easy       |
+| 141    | [Linked List Cycle](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D141.Linked%20List%20Cycle.js) | Easy       |
+| 160    | [Intersection of Two Linked Lists](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D160.Intersection%20of%20Two%20Linked%20Lists.js) | Easy       |
+| 203    | [Remove Linked List Elements](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D203.Remove%20Linked%20List%20Elements.js) | Easy       |
+| 206    | [Reverse Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D206.Reverse%20Linked%20List.js) | Easy       |
+| 234    | [Palindrome Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D234.Palindrome%20Linked%20List.js) | Easy       |
+| 237    | [Delete Node in a Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D237.Delete%20Node%20in%20a%20Linked%20List.js) | Easy       |
+|        |                                                              |            |
+
  

@@ -7,8 +7,8 @@
 * 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复，面试基本不会出现。
 
 ## String 
-
-### 重点
+<details>
+<summary>重点</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
@@ -27,9 +27,10 @@
 | 241    | [Different Ways to Add Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D241.Different%20Ways%20to%20Add%20Parentheses.js) | Medium     |
 | 392    | [Is Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D392.Is%20Subsequence.js) | Medium     |
 | 395    | [Longest Substring with At Least K Repeating Character](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.js) | Medium     |
+</details>
 
-
-### 提高
+<details>
+<summary>提高</summary>
 
 | Number | Title | Difficulty |
 | ------ | ----- | ---------- |
@@ -41,10 +42,11 @@
 | 301    | [Remove Invaild Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D301.Remove%20Invaild%20Parentheses.js) | Hard       |
 | 316    | [Remove Duplicate Letters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D316.Remove%20Duplicate%20Letters.js) | Hard       |
 | 336    | [Palindrome Pairs](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BH%5D336.Palindrome%20Pairs.js) | Hard       |
+</details>
 
 
-
-### 了解
+<details>
+<summary>了解</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
@@ -60,10 +62,12 @@
 | 12     | [Integer to Roman](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D12.Integer%20to%20Roman.js) | Medium     |
 | 49     | [Group Anagrams](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D49.Group%20Anagrams.js) | Medium     |
 | 151    | [Reverse Words in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D151.Reverse%20Words%20in%20a%20String.js) | Medium     |
+</details>
 
 ## Array
 
-### 重点
+<details>
+<summary>重点</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
@@ -92,8 +96,10 @@
 | 57     | [Insert Interval](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D57.Insert%20Interval.js) | Hard       |
 | 128    | [Longest Consecutive Sequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D128.Longest%20Consecutive%20Sequence.js) | Hard       |
 | 239    | [Sliding Window Maximum](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D239.Sliding%20Window%20Maximum.js) | Hard       |
+</details>
 
-### 提高
+<details>
+<summary>提高</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
@@ -106,18 +112,22 @@
 | 123    | [Best Time to Buy and Sell Stock III](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D123.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js) | Hard       |
 | 164    | [Maximum Gap](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D164.Maximum%20Gap.js) | Hard       |
 | 188    | [Best Time to Buy and Sell Stock IV](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D188.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.js) | Hard       |
+</details>
 
-### 了解
+<details>
+<summary>了解</summary>
 
 | Number | Title                                                        | Diffuculty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 80     | [Remove Duplicates from Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D80.Remove%20Duplicates%20from%20Sorted%20Array%20II.js) | Medium     |
 | 228    | [Summary Ranges](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D228.Summary%20Ranges.js) | Medium     |
 | 274    | [H-Index](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D274.H-Index.js) | Medium     |
+</details>
 
 ## Stack
 
-### 重点
+<details>
+<summary>重点</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
@@ -130,29 +140,34 @@
 | 347    | [Top K Frequent Elements](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D347.Top%20K%20Frequent%20Elements.js) | Medium     |
 | 394    | [Decode String](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D394.Decode%20String.js) | Medium     |
 | 224 | [Basic Calculator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BH%5D224.Basic%20Calculator.js) | Hard |
+</details>
 
-### 提高
+<details>
+<summary>提高</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 332    | [Reconstruct Ltinerary](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D332.Reconstruct%20Ltinerary.js) | Medium     |
 | 388    | [Longest Absolute File Path](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D388.Longest%20Absolute%20File%20Path.js) | Medium     |
 | 84     | [Largest Rectangle in Histogram](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BH%5D84.Largest%20Rectangle%20in%20Histogram.js) | Hard       |
+</details>
 
 
-
-### 了解
+<details>
+<summary>了解</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 155    | [Min Stack](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D155.Min%20Stack.js) | Easy       |
 | 341    | [Flatten Nested list Iterator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D341.Flatten%20Nested%20list%20Iterator.js) | Medium     |
+</details>
 
 ## LinkedList
 
-### 重点
+<details>
+<summary>重点</summary>
 
-| Number | Title                                                        | Difficulty |
+| Number | Title | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 21     | [Merge Two Sorted Lists](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D21.Merge%20Two%20Sorted%20Lists.js) | Easy       |
 | 83     | [Remove Duplicates from Sorted List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BE%5D83.Remove%20Duplicates%20from%20Sorted%20List.js) | Easy       |
@@ -172,8 +187,10 @@
 | 148    | [Sort List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D148.Sort%20List.js) | Medium     |
 | 328    | [Odd Even Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D328.Odd%20Even%20Linked%20List.js) | Medium     |
 | 23     | [Merge k Sorted List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BH%5D23.Merge%20k%20Sorted%20Lists.js) | Hard       |
+</details>
 
-### 了解
+<details>
+<summary>了解</summary>
 
 | Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
@@ -181,4 +198,5 @@
 | 92     | [Reverse Linked List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D92.Reverse%20Linked%20List%20II.js) | Medium     |
 | 143    | [Reorder List](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BM%5D143.Reorder%20List.js) | Medium     |
 | 25     | [Reverse Nodes in k-Group](https://github.com/unsad/leetcode-javascript/blob/master/LinkedList/%5BH%5D25.Reverse%20Nodes%20in%20k-Group.js) | Hard       |
+</details>
 

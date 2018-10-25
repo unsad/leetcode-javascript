@@ -217,7 +217,7 @@
 | 112    | [Path Sum](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D112.Path%20Sum.js) | Easy       |
 | 226    | [invert Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D226.Invert%20Binart%20Tree.js) | Easy       |
 | 235    | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js) | Easy       |
-| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js) | Easy       |
+| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js[Binary Tree Paths]()) | Easy       |
 | 94     | [Binary Tree Inorder Traversal](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D94.Binary%20Tree%20Inorder%20Traversal.js) | Medium     |
 | 96     | [Unique Binary Search Trees](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D96.Unique%20Binary%20Search%20Trees.js) | Medium     |
 | 98     | [Validate Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D98.Validate%20Binary%20Search%20Tree.js) | Medium     |
@@ -254,4 +254,29 @@
 | 173    | [Binary Search Tree Iterator](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D173.Binary%20Search%20Tree%20Iterator.js) | Medium     |
 | 199    | [Binary Tree Right Side View](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D199.Binary%20Tree%20Right%20Side%20View.js) | Medium     |
 </details>
+
+## Binary Search
+
+<details>
+<summary>重点</summary>
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 35     | [Search Insert Position](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BE%5D35.Search%20Insert%20Position.js) | Easy       |
+| 33     | [Search in Rotated Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D33.Search%20in%20Rotated%20Sorted%20Array.js) | Medium     |
+| 315    | [Count of Smaller Nunmbers After Self](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BH%5D315.Count%20of%20Smaller%20Nunmbers%20After%20Self.js) | Hard       |
+</details>
+
+<details>
+<summary>了解</summary>
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 278    | [First Bad Version](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BE%5D278.First%20Bad%20Version.js) | Easy       |
+| 34     | [Find First and Last Position of Element in Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) | Medium     |
+| 82     | [Search in Rotated Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D82.Search%20in%20Rotated%20Sorted%20Array%20II.js) | Medium     |
+| 162    | [Find Peak Element](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D162.Find%20Peak%20Element.js) | Medium     |
+</details>
+
+ 
 

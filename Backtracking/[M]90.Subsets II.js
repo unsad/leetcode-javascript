@@ -2,7 +2,11 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var subsets = function(nums) {
+/**
+ * @param {number[]} nums
+ * @return {number[][]}
+ */
+var subsetsWithDup = function(nums) {
   let out = [];
   let res = [];
   nums.sort((a, b) => a - b);
@@ -22,5 +26,6 @@ function helper(nums, pos, res, out) {
   }
 }
 
-/**基础回溯，求数组元素的所有组合 */
-
+/**
+ * 78的延伸，多了重复元素，那么只需要在回溯时跳过重复元素即可
+ */

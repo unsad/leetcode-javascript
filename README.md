@@ -217,7 +217,7 @@
 | 112    | [Path Sum](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D112.Path%20Sum.js) | Easy       |
 | 226    | [invert Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D226.Invert%20Binart%20Tree.js) | Easy       |
 | 235    | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js) | Easy       |
-| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js[Binary Tree Paths]()) | Easy       |
+| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js) | Easy       |
 | 94     | [Binary Tree Inorder Traversal](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D94.Binary%20Tree%20Inorder%20Traversal.js) | Medium     |
 | 96     | [Unique Binary Search Trees](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D96.Unique%20Binary%20Search%20Trees.js) | Medium     |
 | 98     | [Validate Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D98.Validate%20Binary%20Search%20Tree.js) | Medium     |
@@ -275,8 +275,32 @@
 | 278    | [First Bad Version](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BE%5D278.First%20Bad%20Version.js) | Easy       |
 | 34     | [Find First and Last Position of Element in Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) | Medium     |
 | 82     | [Search in Rotated Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D82.Search%20in%20Rotated%20Sorted%20Array%20II.js) | Medium     |
-| 162    | [Find Peak Element](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D162.Find%20Peak%20Element.js) | Medium     |
+| 162    | [Find Peak Element](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D162.Find%20Peak%20Element.js) | Medium 
 </details>
 
- 
+## Backtracking
+
+<details>
+<summary>重点</summary>
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 39     | [Combination Sum](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D39.Combination%20Sum.js) | Medium     |
+| 40     | [Combination Sum II](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D40.Combination%20Sum%20II.js) | Medium     |
+| 46     | [Permutations](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D46.Permutations.js) | Medium     |
+| 47     | [Permutations II](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D47.Permutations%20II.js) | Medium     |
+</details>
+
+<details>
+<summary>了解</summary>
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 77     | [Combinations](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D77.Combinations.js) | Medium     |
+| 78     | [Subsets](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D78.Subsets.js) | Medium     |
+| 90     | [Subsets II](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D90.Subsets%20II.js) | Medium     |
+| 216    | [Combination Sum III](https://github.com/unsad/leetcode-javascript/blob/master/Backtracking/%5BM%5D216.Combination%20Sum%20III.js) | Medium     |
+</details>
+
+
 

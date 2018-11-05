@@ -304,3 +304,13 @@
 
 
 
+## Dynamic Programming
+
+<details>
+<summary>重点</summary>
+
+| Number | Title                                                        | difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 70     | [Climbing Stairs](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BE%5D70.Climbing%20Stairs.js) | Easy       |
+| 198    | [House Robber](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BE%5D198.House%20Robber.js) | Easy       |
+</details>

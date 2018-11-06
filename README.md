@@ -2,9 +2,9 @@
 
 ## 分类标准
 
-* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三，面试频繁出现。
-* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习，面试一般不会出现。
-* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复，面试基本不会出现。
+* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三。
+* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习。
+* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复。
 
 ## String 
 <details>
@@ -309,8 +309,25 @@
 <details>
 <summary>重点</summary>
 
-| Number | Title                                                        | difficulty |
+| Number | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 70     | [Climbing Stairs](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BE%5D70.Climbing%20Stairs.js) | Easy       |
 | 198    | [House Robber](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BE%5D198.House%20Robber.js) | Easy       |
+| 62     | [Unique Path](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D62.Unique%20Paths.js) | Medium     |
+| 63     | [Unique Path](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D63.Unique%20Paths%20II.js) | Medium     |
+| 64     | [Minimum Path Sum](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D64.Minimum%20Path%20Sum.js) | Medium     |
+| 91     | [Decode Ways](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D91.Decode%20Ways.js) | Medium     |
+| 120    | [Triangle](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D120.Triangle.js) | Medium     |
+| 139    | [Word Break](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D139.Word%20Break.js) | Medium     |
+| 221    | [Maximal Square](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D221.Maximal%20Square.js) | Medium     |
+| 279    | [Perfect Squares](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D279.Perfect%20Squares.js) | Medium     |
 </details>
+
+<details>
+<summary>了解</summary>
+
+| Number | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 322    | [Coin Change](https://github.com/unsad/leetcode-javascript/blob/master/Dynamic%20Programming/%5BM%5D322.Coin%20Change.js) | Medium     |
+</details>
+

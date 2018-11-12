@@ -2,9 +2,9 @@
 
 ## 分类标准
 
-* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三。
-* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习。
-* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复。
+* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三，面试频繁出现。
+* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习，面试一般不会出现。
+* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复，面试基本不会出现。
 
 ## String 
 <details>
@@ -16,10 +16,19 @@
 | 14     | [Longest Common Prefix](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D14.Longest%20Common%20Prefix.js) | Easy       |
 | 20     | [Valid Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D20.Valid%20Parentheses.js) | Easy       |
 | 38     | [Count and Say](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D38.Count%20and%20Say.js) | Easy       |
+| 67     | [Add Binary](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D67.Add%20Binary.js) | Easy.||
 | 125    | [Valid Palindrome](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D125.Valid%20Palindrome.js) | Easy       |
 | 205    | [Isomorphic Strings](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D205.Isomorphic%20Strings.js) | Easy       |
 | 344    | [Reverse String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D344.Reverse%20String.js) | Easy       |
 | 345    | [Reverse Vowels of a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D345.Reverse%20Vowels%20of%20a%20String.js) | Easy       |
+| 434   | [Number of Segments in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D434.Number%20of%20Segments%20in%20a%20String.js) | Easy |
+| 459   | [Repeated Substring Pattern](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D459.Repeated%20Substring%20Pattern.js) | Easy |
+| 541   | [Reverse String II](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D541.Reverse%20String%20II.js) | Easy |
+| 606   | [Construct String from Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D606.Construct%20String%20from%20Binary%20Tree.js) | Easy |
+| 680   | [Valid palindrome II](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D680.Valid%20Palindrome%20II.js) | Easy |
+| 686   | [Repeated String Match](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D686.Repeated%20String%20Match.js) | Easy |
+| 696   | [Count Binary Substrings](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D696.Count%20Binary%20Substrings.js) | Easy |
+| 819  | [Most Common Word](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D819.Most%20Common%20Word.js) | Easy |
 | 3      | [Longest Substring Without Repeating Characters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D3.Longest%20Substring%20Without%20Repeating%20Characters.js) | Medium     |
 | 5      | [Longest Palindromic Substring](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D5.Longest%20Palindromic%20Substring.js) | Medium     |
 | 22     | [Generate parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D22.Generate%20parentheses.js) | Medium     |
@@ -59,6 +68,11 @@
 | 290    | [Word Pattern](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D290.Word%20Pattern.js) | Easy       |
 | 383    | [Ransom Note](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D383.Ransom%20Note.js) | Easy       |
 | 387    | [First Unique Character in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D387.First%20Unique%20Character%20in%20a%20String.js) | Easy       |
+| 520    | [Detect Capital](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D520.Detect%20Capital.js) | Easy |
+| 557    | [Reverse Words in a String III](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D557.Reverse%20Words%20in%20a%20String%20III.js) | Easy |
+| 657    | [Robot Return to origin](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D657.Robot%20Return%20to%20Origin.js) | Easy |
+| 788    | [Rotated Digits](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D788.Rotated%20Digits.js) | Easy |
+| 804    | [Unique Morse Code Words](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D804.Unique%20Morse%20Code%20Words.js) | Easy |
 | 12     | [Integer to Roman](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D12.Integer%20to%20Roman.js) | Medium     |
 | 49     | [Group Anagrams](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D49.Group%20Anagrams.js) | Medium     |
 | 151    | [Reverse Words in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D151.Reverse%20Words%20in%20a%20String.js) | Medium     |

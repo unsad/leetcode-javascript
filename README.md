@@ -2,9 +2,9 @@
 
 ## 分类标准
 
-* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三，面试频繁出现。
-* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习，面试一般不会出现。
-* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复，面试基本不会出现。
+* 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三。
+* 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习。
+* 了解：一般是解法很容易想到，或者是细节繁琐但是思路很直接，或者和重点题型的解法重复。
 
 ## String 
 <details>
@@ -31,11 +31,13 @@
 | 819  | [Most Common Word](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D819.Most%20Common%20Word.js) | Easy |
 | 3      | [Longest Substring Without Repeating Characters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D3.Longest%20Substring%20Without%20Repeating%20Characters.js) | Medium     |
 | 5      | [Longest Palindromic Substring](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D5.Longest%20Palindromic%20Substring.js) | Medium     |
+| 17     | [Letter Combinations of a Phone Number][https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D17.Letter%20Combinations%20of%20a%20Phone%20Number.js] | Medium |
 | 22     | [Generate parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D22.Generate%20parentheses.js) | Medium     |
 | 131    | [Palindrome Partitioning](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D131.Palindrome%20Partitioning.js) | Medium     |
 | 241    | [Different Ways to Add Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D241.Different%20Ways%20to%20Add%20Parentheses.js) | Medium     |
 | 392    | [Is Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D392.Is%20Subsequence.js) | Medium     |
 | 395    | [Longest Substring with At Least K Repeating Character](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.js) | Medium     |
+| 647    | [Palindromic Substrings](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D647.Palindromic%20Substrings.js) | Medium |
 </details>
 
 <details>
@@ -76,6 +78,8 @@
 | 12     | [Integer to Roman](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D12.Integer%20to%20Roman.js) | Medium     |
 | 49     | [Group Anagrams](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D49.Group%20Anagrams.js) | Medium     |
 | 151    | [Reverse Words in a String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D151.Reverse%20Words%20in%20a%20String.js) | Medium     |
+| 537    | [Complex Number Multiplication](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D537.Complex%20Number%20Multiplication.js) | Medium |
+| 791    | [Custom Sort String](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D791.Custom%20Sort%20String.js) | Medium |
 </details>
 
 ## Array

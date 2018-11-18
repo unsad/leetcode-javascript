@@ -29,3 +29,7 @@ var imageSmoother = function(M) {
   }
   return res;     
 };
+
+/**
+ * 图片光滑算法，遍历每个像素点，用题干给定逻辑求解
+ */

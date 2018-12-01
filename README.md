@@ -4,7 +4,7 @@
 
 * 重点：必须掌握的题型。通常都有着代表一类题型的解法，或者可以举一反三。
 * 提高：难度相对高的题，或者思路巧妙的题，提升自我的目的可以练习。
-* 了解：一般是解法很容易想到，或者是细节繁琐但是思路很直接，或者和重点题型的解法重复。
+* 了解：一般是解法很容易想到但是细节繁琐，或者和重点题型的解法重复。
 
 ## String 
 <details>
@@ -31,7 +31,7 @@
 | 819  | [Most Common Word](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BE%5D819.Most%20Common%20Word.js) | Easy |
 | 3      | [Longest Substring Without Repeating Characters](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D3.Longest%20Substring%20Without%20Repeating%20Characters.js) | Medium     |
 | 5      | [Longest Palindromic Substring](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D5.Longest%20Palindromic%20Substring.js) | Medium     |
-| 17     | [Letter Combinations of a Phone Number][https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D17.Letter%20Combinations%20of%20a%20Phone%20Number.js] | Medium |
+| 17     | [Letter Combinations of a Phone Number](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D17.Letter%20Combinations%20of%20a%20Phone%20Number.js) | Medium |
 | 22     | [Generate parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D22.Generate%20parentheses.js) | Medium     |
 | 131    | [Palindrome Partitioning](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D131.Palindrome%20Partitioning.js) | Medium     |
 | 241    | [Different Ways to Add Parentheses](https://github.com/unsad/leetcode-javascript/blob/master/String/%5BM%5D241.Different%20Ways%20to%20Add%20Parentheses.js) | Medium     |
@@ -93,11 +93,27 @@
 | 27     | [Remove Element](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D27.Remove%20Element.js) | Easy       |
 | 53     | [Maximum Subarray](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D53.Maximum%20Subarray.js) | Easy       |
 | 88     | [Merge Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D88.Merge%20Sorted%20Array.js) | Easy       |
+| 118     | [Pascal's Triangle](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D118.Pascal's%20Triangle.js) | Easy       |
 | 121    | [Best Time to Buy and Sell Stock](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) | Easy       |
 | 122    | [Best Time to Buy and Sell Stock II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js) | Easy       |
+| 167 | [Two Sum II - Input array is sorted](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) | Easy |
 | 189    | [Rotate Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D189.Rotate%20Array.js) | Easy       |
 | 217    | [Contains Duplicate](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D217.Contains%20Duplicate.js) | Easy       |
+| 219    | [Contains Duplicate II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D219.Contains%20Duplicate%20II.js) | Easy       |
+| 268    | [Missing Number](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D268.Missing%20Number.js) | Easy       |
 | 283    | [Move Zeroes](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D283.Move%20Zeroes.js) | Easy       |
+| 414    | [Third Maximum Number](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D414.Third%20Maximum%20Number.js) | Easy       |
+| 448    | [Find All Numbers Disappeared in an Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.js) | Easy       |
+| 532    | [K-diff Pairs in an Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D532.K-diff%20Pairs%20in%20an%20Array.js) | Easy       |
+| 605    | [Can Place Flowers](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D605.Can%20Place%20Flowers.js) | Easy       |
+| 628    | [Maximum Product of Three Numbers](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D628.Maximum%20Product%20of%20Three%20Numbers.js) | Easy       |
+| 643    | [Maximum Average Subarray I](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D643.Maximum%20Average%20Subarray%20I.js) | Easy       |
+| 665   | [Non-decreasing Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D665.Non-decreasing%20Array.js) | Easy       |
+| 674   | [Longest Continuous Increasing Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D674.Longest%20Continuous%20Increasing%20Subsequence.js) | Easy       |
+| 717   | [1-bit and 2-bit Characters](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D717.1-bit%20and%202-bit%20Characters.js) | Easy       |
+| 724   | [Find Pivot Index](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D724.Find%20Pivot%20Index.js) | Easy       |
+| 746   | [Min Cost Climbing Stairs](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D746.Min%20Cost%20Climbing%20Stairs.js) | Easy       |
+| 766   | [Toeplitz Matrix](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D766.Toeplitz%20Matrix.js) | Easy       |
 | 55     | [Jump Game](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D55.Jump%20Game.js) | Medium     |
 | 56     | [Merge Intervals](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D56.Merge%20Intervals.js) | Medium     |
 | 75     | [Sort Colors](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D75.Sort%20Colors.js) | Medium     |
@@ -137,6 +153,12 @@
 
 | Number | Title                                                        | Diffuculty |
 | ------ | ------------------------------------------------------------ | ---------- |
+| 66 |[Plus One](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D66.Plus%20One.js) | Easy |
+| 169 |[Majority Element](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D169.Majority%20Element.js) | Easy |
+| 485 | [Max Consecutive Ones](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D485.Max%20Consecutive%20Ones.js) | Easy |
+| 561 | [Array Partition I](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D561.Array%20Partition%20I.js) | Easy |
+| 661 | [Image Smoother](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D661.Image%20Smoother.js) | Easy |
+| 747 | [Largest Number At Least Twice of Others](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BE%5D747.Largest%20Number%20At%20Least%20Twice%20of%20Others.js) | Easy |
 | 80     | [Remove Duplicates from Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D80.Remove%20Duplicates%20from%20Sorted%20Array%20II.js) | Medium     |
 | 228    | [Summary Ranges](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D228.Summary%20Ranges.js) | Medium     |
 | 274    | [H-Index](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D274.H-Index.js) | Medium     |
@@ -227,15 +249,15 @@
 | ------ | ------------------------------------------------------------ | ---------- |
 | 100    | [Same Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D100.Same%20Tree.js) | Easy       |
 | 101    | [Symmetric Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D101.Symmetric%20Tree.js) | Easy       |
-| 104    | [Maximum Depth of Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D104.Maximum%20Depth%20of%20Binary%20Tree.js) | Easy       |
+| 104    | [Maximum Depth of Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D104.Maximum%20Depth%20of%20Binary%20Tree.js) | Easy    |
 | 107    | [Binary Tree Level Order Traversal II](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D107.Binary%20Tree%20Level%20Order%20Traversal%20II.js) | Easy       |
 | 108    | [Convert Sorted Array to Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js) | Easy       |
-| 110    | [Balanced Binart Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D110.Balanced%20Binart%20Tree.js) | Easy       |
+| 110    | [Balanced Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D110.Balanced%20Binary%20Tree.js) | Easy       |
 | 111    | [Minimum Depth of Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D111.Minimum%20Depth%20of%20Binary%20Tree.js) | Easy       |
 | 112    | [Path Sum](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D112.Path%20Sum.js) | Easy       |
-| 226    | [invert Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D226.Invert%20Binart%20Tree.js) | Easy       |
+| 226    | [invert Binary Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D226.Invert%20Binary%20Tree.js) | Easy       |
 | 235    | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js) | Easy       |
-| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binart%20Tree%20Paths.js) | Easy       |
+| 257    | [Binary Tree Paths](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BE%5D257.Binary%20Tree%20Paths.js) | Easy       |
 | 94     | [Binary Tree Inorder Traversal](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D94.Binary%20Tree%20Inorder%20Traversal.js) | Medium     |
 | 96     | [Unique Binary Search Trees](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D96.Unique%20Binary%20Search%20Trees.js) | Medium     |
 | 98     | [Validate Binary Search Tree](https://github.com/unsad/leetcode-javascript/blob/master/Tree/%5BM%5D98.Validate%20Binary%20Search%20Tree.js) | Medium     |

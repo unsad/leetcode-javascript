@@ -125,6 +125,11 @@
 | 287    | [Find the Duplicate Number](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D287.Find%20the%20Duplicate%20Number.js) | Medium     |
 | 324    | [Wiggle Sort \|\|](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D324.Wiggle%20Sort%20II.js) | Medium     |
 | 334    | [Increasing Triplet Subsequence](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D334.Increasing%20Triplet%20Subsequence.js) | Medium     |
+| 442    | [Find All Duplicates in an Array](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D442.Find%20All%20Duplicates%20in%20an%20Array.js) | Medium     |
+| 495    | [Teemo Attacking](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D495.Teemo%20Attacking.js) | Medium     |
+| 565    | [Array Nesting](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D565.Array%20Nesting.js) | Medium     |
+| 718    | [Maximum Length of Repeated Subarray](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D718.Maximum%20Length%20of%20Repeated%20Subarray.js) | Medium     |
+| 769    | [Max Chunks To Make Sorted](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BM%5D769.Max%20Chunks%20To%20Make%20Sorted.js) | Medium     |
 | 41     | [First Missing Positive](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D41.First%20Missing%20Positive.js) | Hard       |
 | 45     | [Jump Game II](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D45.Jump%20Game%20II.js) | Hard       |
 | 57     | [Insert Interval](https://github.com/unsad/leetcode-javascript/blob/master/Array/%5BH%5D57.Insert%20Interval.js) | Hard       |
@@ -314,7 +319,7 @@
 | ------ | ------------------------------------------------------------ | ---------- |
 | 278    | [First Bad Version](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BE%5D278.First%20Bad%20Version.js) | Easy       |
 | 34     | [Find First and Last Position of Element in Sorted Array](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) | Medium     |
-| 82     | [Search in Rotated Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D82.Search%20in%20Rotated%20Sorted%20Array%20II.js) | Medium     |
+| 81     | [Search in Rotated Sorted Array II](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D82.Search%20in%20Rotated%20Sorted%20Array%20II.js) | Medium     |
 | 162    | [Find Peak Element](https://github.com/unsad/leetcode-javascript/blob/master/Binary%20Search/%5BM%5D162.Find%20Peak%20Element.js) | Medium 
 </details>
 

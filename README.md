@@ -184,6 +184,9 @@
 | 227    | [Basic Calculator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D227.Basic%20Calculator%20II.js) | Medium     |
 | 347    | [Top K Frequent Elements](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D347.Top%20K%20Frequent%20Elements.js) | Medium     |
 | 394    | [Decode String](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D394.Decode%20String.js) | Medium     |
+| 402    | [Remove K Digits](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D402.Remove%20K%20Digits.js) | Medium     |
+| 503    | [Next Greater Element II](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D503.Next%20Greater%20Element%20II.js) | Medium     |
+| 739    | [Daily Temperatures](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D739.Daily%20Temperatures.js) | Medium     |
 | 224 | [Basic Calculator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BH%5D224.Basic%20Calculator.js) | Hard |
 </details>
 
@@ -205,6 +208,7 @@
 | ------ | ------------------------------------------------------------ | ---------- |
 | 155    | [Min Stack](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D155.Min%20Stack.js) | Easy       |
 | 341    | [Flatten Nested list Iterator](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BM%5D341.Flatten%20Nested%20list%20Iterator.js) | Medium     |
+| 682    | [Baseball Game](https://github.com/unsad/leetcode-javascript/blob/master/Stack/%5BE%5D682.Baseball%20Game.js) | Medium     |
 </details>
 
 ## LinkedList
